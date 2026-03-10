@@ -1,0 +1,13 @@
+{
+  "name": "websiteless-sorter",
+  "version": "1.0.0",
+  "description": "Sort businesses by whether they have a website",
+  "main": "sortBusinesses.js",
+  "scripts": {
+    "start": "node sortBusinesses.js"
+  },
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.49",
+    "dotenv": "^16.4.0"
+  }
+}
